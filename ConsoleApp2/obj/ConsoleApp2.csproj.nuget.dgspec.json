@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/CSharpTasks/ConsoleApp1/ConsoleApp1.csproj": {}
+    "/workspaces/CSharpTasks/ConsoleApp2/ConsoleApp2.csproj": {}
   },
   "projects": {
-    "/workspaces/CSharpTasks/ConsoleApp1/ConsoleApp1.csproj": {
+    "/workspaces/CSharpTasks/ConsoleApp2/ConsoleApp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/CSharpTasks/ConsoleApp1/ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "/workspaces/CSharpTasks/ConsoleApp1/ConsoleApp1.csproj",
+        "projectUniqueName": "/workspaces/CSharpTasks/ConsoleApp2/ConsoleApp2.csproj",
+        "projectName": "ConsoleApp2",
+        "projectPath": "/workspaces/CSharpTasks/ConsoleApp2/ConsoleApp2.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/CSharpTasks/ConsoleApp1/obj/",
+        "outputPath": "/workspaces/CSharpTasks/ConsoleApp2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"

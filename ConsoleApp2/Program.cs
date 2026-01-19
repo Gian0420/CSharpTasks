@@ -1,5 +1,4 @@
-﻿
-class Task1
+﻿class Task1
 {
     static void Main(String[] args)
     {
